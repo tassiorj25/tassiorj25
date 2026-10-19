@@ -59,6 +59,8 @@ Pillow is optional and only used by the visual diff.
 npm install playwright && npx playwright install chromium
 ```
 
+> *To use these skills inside another project, see [INSTALL.md](INSTALL.md).*
+
 ## The pipeline
 
 ```
