@@ -1,0 +1,14 @@
+{
+  "name": "blueprint",
+  "owner": {
+    "name": "tassiorj25",
+    "url": "https://github.com/tassiorj25"
+  },
+  "plugins": [
+    {
+      "name": "blueprint",
+      "source": "./",
+      "description": "Seven skills that reverse-engineer a public web app into measured evidence and rebuild it, with gates on contrast, parity and originality."
+    }
+  ]
+}

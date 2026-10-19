@@ -1,0 +1,24 @@
+{
+  "name": "blueprint-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evidence-based reverse engineering of public web apps: measure a target, derive its design system and data model, rebuild it, and gate the result.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/capture-rules.test.mjs",
+    "test:py": "python3 tests/run.py",
+    "test:all": "npm test && npm run test:py"
+  },
+  "peerDependencies": {
+    "playwright": ">=1.40.0"
+  },
+  "peerDependenciesMeta": {
+    "playwright": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

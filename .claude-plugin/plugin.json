@@ -1,0 +1,18 @@
+{
+  "name": "blueprint",
+  "version": "0.1.0",
+  "description": "Evidence-based reverse engineering of public web apps: measure a target, derive its design system and data model, rebuild it, and gate the result on parity and originality.",
+  "author": {
+    "name": "tassiorj25"
+  },
+  "homepage": "https://github.com/tassiorj25/tassiorj25",
+  "license": "MIT",
+  "keywords": [
+    "reverse-engineering",
+    "agent-skills",
+    "design-tokens",
+    "clean-room",
+    "evidence",
+    "playwright"
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# a Blueprint run's working directory: evidence, screenshots and derived files
+# belong to the project being built, not to this repository
+blueprint/
